@@ -1,0 +1,13 @@
+.section {
+    margin: 0 auto;
+    width: 370px;
+}   
+
+#sign-in-page .title {
+    margin-top: 40%;
+    font-size: 25px;
+}
+
+.section .button {
+    width: 100%;
+}

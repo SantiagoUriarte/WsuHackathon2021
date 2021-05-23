@@ -1,0 +1,26 @@
+#confirm-plan-page-title {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#confirm-plan-page {
+    padding-top: 10px;
+    background: #6B7FC4;
+    border-radius: 10px;
+}
+
+#confirm-plan-page * {
+    color: white;
+}
+
+#confirm-plan-page i {
+    color: #1E163B;
+}
+
+#confirm-plan-page input, select, textarea{
+    color: black;
+}
+
+#extraNotes {
+    color: black;
+}

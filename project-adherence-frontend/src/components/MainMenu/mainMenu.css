@@ -1,0 +1,33 @@
+#search-bar {
+    margin-top: -60px;
+}
+
+.button.tile {
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+    background-color: violet;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#newPlan-tile {
+    background-color: #6B7FC4;
+    color: white;
+}
+
+#viewPlans-tile {
+    background-color: #F05D00;
+    color: white;
+}
+
+#calendar-tile {
+    background-color: #FFB078;
+    color: white;
+}
+
+#viewPatients-tile {
+    background-color: #F24B4B;
+    color: white;
+}

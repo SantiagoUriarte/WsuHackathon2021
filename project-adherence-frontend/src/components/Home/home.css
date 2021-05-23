@@ -1,0 +1,30 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+
+.isWholeScreen {
+    height: 100vh;
+    width: 100vw;
+}
+
+#LogoSection img {
+  height: 216px;
+  width: 90px;
+  margin-top: 20vh;
+}
+
+#LoginButtonSection {
+  margin-top: 100px;
+}
+
+#LoginButtonSection .container {
+  margin: 0 auto;
+  width: 256px;
+}
+
+#LoginButtonSection .columns .column .button {
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+#navbar {
+    background: rgba(30,22,59,1);
+}
+
+#navbar i {
+    font-size: 20px;
+    color: white;
+}
+
+#navbar i:hover {
+    color: #F24B4B;
+}
+
+#navbar-logo {
+    height: 50px;
+    width: 22px;
+}
