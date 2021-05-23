@@ -3,7 +3,8 @@
 #### Created by Team Santiago Canyon
 ---
 ## Overview 
-Hello, our team name is Santiago Canyon. Our teammates are Daniel, Tea, and Spaceman.
+Hello, our team name is Santiago Canyon. Our teammates are Daniel, Tea, and Spaceman.\
+***Link to the UI Design with Figma:*** https://www.figma.com/file/J0EcH7uKPkY172KrxQs101/Hackathon?node-id=17%3A901
 
 ***The Problem***\
 Close to 80% of healthcare workers believe that patients have a probelm with medical adherence. Medical adherence, or taking medications correctly, is generally defined as the extent to which patients take medication as prescribed by their doctors. This involves factors such as getting prescriptions filled, remembering to take medication on time, and understanding the directions.
